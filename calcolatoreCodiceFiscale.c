@@ -6,7 +6,7 @@
 #include <locale.h>
 
 /* PROGRAMMA: Calcolatore del codice fiscale per persone fisiche nate in Italia
- * AUTORE: Lorenzo Porta
+ * AUTORE: Lorenzo Porta - ITT "G. Fauser" - Novara
  * ULTIMA MODIFICA: 03/11/2024 - 12:47
  */
 
