@@ -1,4 +1,4 @@
-Esempio di didattico di applicazione pratica del costrutto di lettura da file in linguaggio C.
+Esempio didattico di applicazione pratica del costrutto di lettura da file in linguaggio C.
 
 Realizzato tramite progetto CMake in CLion.
 
